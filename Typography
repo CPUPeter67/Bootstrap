@@ -52,6 +52,13 @@
                     <p>Inline snippets of code should be embedded in the code element:</p>
                     <The following HTML elements: <code>span</code>, <code>section</code>,
                         and <code>div</code> defines a section in a document.</p>
+
+                     <h1>Abbreviation</h1>
+                     <p>It is used to mark up an abbreviation or acronym:</p>
+                     <p><abbr title="remote control">rc</abbr>can be controlled with a controller.</p>
+                     <h1><Blockquotes</h1>  
+                     <p>It is used to present content from another source:</p> 
+                     <blockquote class="blockquote"
                     </body>
                     </html>
                 </div>
